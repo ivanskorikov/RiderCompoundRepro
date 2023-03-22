@@ -1,6 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="ActualCompoundConfiguration" type="CompoundRunConfigurationType">
     <toRun name="RiderCompoundRepro" type="DotNetProject" />
+    <toRun name="Unnamed" type="DotNetProject" />
     <method v="2" />
   </configuration>
 </component>
